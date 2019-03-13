@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="87faa5dd-e68c-46b5-94d6-ce1157078abf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teclas/eventos.js" beforeDir="false" afterPath="$PROJECT_DIR$/teclas/eventos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teclas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/teclas/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,36 +13,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teclas/index.html">
+        <entry file="file://$PROJECT_DIR$/villaplatzi/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="161">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/teclas/eventos.js">
+        <entry file="file://$PROJECT_DIR$/villaplatzi/platzi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canvas/dibujo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="230">
+              <caret line="10" column="1" lean-forward="true" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <replaceStrings>
@@ -60,6 +53,8 @@
         <option value="$PROJECT_DIR$/flechas/index.html" />
         <option value="$PROJECT_DIR$/teclas/index.html" />
         <option value="$PROJECT_DIR$/teclas/eventos.js" />
+        <option value="$PROJECT_DIR$/villaplatzi/index.html" />
+        <option value="$PROJECT_DIR$/villaplatzi/platzi.js" />
       </list>
     </option>
   </component>
@@ -85,16 +80,6 @@
               <item name="platzi" type="b2602c69:ProjectViewProjectNode" />
               <item name="platzi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="platzi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="platzi" type="462c0819:PsiDirectoryNode" />
-              <item name="canvas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="platzi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="platzi" type="462c0819:PsiDirectoryNode" />
-              <item name="teclas" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -102,6 +87,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
@@ -133,18 +119,21 @@
       <workItem from="1552055222885" duration="2112000" />
       <workItem from="1552141970952" duration="271000" />
       <workItem from="1552142783101" duration="1826000" />
-      <workItem from="1552150974327" duration="2518000" />
+      <workItem from="1552150974327" duration="2655000" />
+      <workItem from="1552417954670" duration="567000" />
+      <workItem from="1552421914313" duration="122000" />
+      <workItem from="1552422065912" duration="7000" />
+      <workItem from="1552481704832" duration="1811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6727000" />
+    <option name="totallyTimeSpent" value="9371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="985" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25963598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27301928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -173,13 +162,20 @@
     <entry file="file://$PROJECT_DIR$/canvas/dibujo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teclas/eventos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teclas/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="322">
           <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -187,10 +183,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teclas/eventos.js">
+    <entry file="file://$PROJECT_DIR$/villaplatzi/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/villaplatzi/platzi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="1" lean-forward="true" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
