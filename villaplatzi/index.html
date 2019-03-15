@@ -3,9 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <title>Villa Platzi</title>
+    <style>
+        .player {
+            width: 50px;
+            height: 50px;
+            background: url('player.png') left center;
+            animation: play 0.8s steps(10);
+        }
+        @keyframes play {
+            100% { background-position: -700px; }
+        }
+    </style>
 </head>
 <body>
-
+    <canvas id="villaplatzi" height="500px" width="500px"></canvas>
 <script src="platzi.js"></script>
 </body>
 </html>
