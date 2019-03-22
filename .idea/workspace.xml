@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="87faa5dd-e68c-46b5-94d6-ce1157078abf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/villaplatzi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/villaplatzi/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/villaplatzi/platzi.js" beforeDir="false" afterPath="$PROJECT_DIR$/villaplatzi/platzi.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,28 +13,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/villaplatzi/index.html">
+        <entry file="file://$PROJECT_DIR$/pakiman/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="276">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/villaplatzi/platzi.js">
+        <entry file="file://$PROJECT_DIR$/pakiman/paki.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1092">
-              <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teclas/eventos.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret selection-end-column="51" />
+            <state relative-caret-position="299">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -72,16 +61,19 @@
         <option value="$PROJECT_DIR$/teclas/eventos.js" />
         <option value="$PROJECT_DIR$/villaplatzi/index.html" />
         <option value="$PROJECT_DIR$/villaplatzi/platzi.js" />
+        <option value="$PROJECT_DIR$/fizzbuzz/index.html" />
+        <option value="$PROJECT_DIR$/fizzbuzz/fizz.js" />
+        <option value="$PROJECT_DIR$/pakiman/index.html" />
+        <option value="$PROJECT_DIR$/pakiman/paki.js" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="521" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="921" />
+    <option name="width" value="1920" />
     <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -97,16 +89,6 @@
               <item name="platzi" type="b2602c69:ProjectViewProjectNode" />
               <item name="platzi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="platzi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="platzi" type="462c0819:PsiDirectoryNode" />
-              <item name="teclas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="platzi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="platzi" type="462c0819:PsiDirectoryNode" />
-              <item name="villaplatzi" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -121,6 +103,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pakiman" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,17 +140,20 @@
       <workItem from="1552422065912" duration="7000" />
       <workItem from="1552481704832" duration="2558000" />
       <workItem from="1552567206989" duration="7543000" />
+      <workItem from="1552654328768" duration="223000" />
+      <workItem from="1552654584142" duration="1917000" />
+      <workItem from="1553259340773" duration="1643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17661000" />
+    <option name="totallyTimeSpent" value="21444000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="521" y="23" width="921" height="985" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="985" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27637923" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2853319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -177,7 +167,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32983682" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32983682" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -206,6 +196,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/teclas/eventos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/villaplatzi/platzi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="100" column="22" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/villaplatzi/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -213,17 +217,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teclas/eventos.js">
+    <entry file="file://$PROJECT_DIR$/fizzbuzz/fizz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret selection-end-column="51" />
+        <state relative-caret-position="461">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/villaplatzi/platzi.js">
+    <entry file="file://$PROJECT_DIR$/fizzbuzz/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
+        <state relative-caret-position="253">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pakiman/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pakiman/paki.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
