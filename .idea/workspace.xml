@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="87faa5dd-e68c-46b5-94d6-ce1157078abf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pakiman/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pakiman/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pakiman/paki.js" beforeDir="false" afterPath="$PROJECT_DIR$/pakiman/paki.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,17 +17,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pakiman/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="207">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pakiman/paki.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pakiman/paki.js">
+        <entry file="file://$PROJECT_DIR$/pakiman/pakiman.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="322">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -65,6 +76,7 @@
         <option value="$PROJECT_DIR$/fizzbuzz/fizz.js" />
         <option value="$PROJECT_DIR$/pakiman/index.html" />
         <option value="$PROJECT_DIR$/pakiman/paki.js" />
+        <option value="$PROJECT_DIR$/pakiman/pakiman.js" />
       </list>
     </option>
   </component>
@@ -88,6 +100,11 @@
             <path>
               <item name="platzi" type="b2602c69:ProjectViewProjectNode" />
               <item name="platzi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platzi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="platzi" type="462c0819:PsiDirectoryNode" />
+              <item name="pakiman" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,18 +159,19 @@
       <workItem from="1552567206989" duration="7543000" />
       <workItem from="1552654328768" duration="223000" />
       <workItem from="1552654584142" duration="1917000" />
-      <workItem from="1553259340773" duration="1643000" />
+      <workItem from="1553259340773" duration="5050000" />
+      <workItem from="1553282242398" duration="2356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21444000" />
+    <option name="totallyTimeSpent" value="27207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="985" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2853319" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.6243017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -167,7 +185,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32983682" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32983682" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -233,15 +251,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pakiman/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pakiman/paki.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="253">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pakiman/pakiman.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
